@@ -50,19 +50,5 @@ was used to set the regularization hyperparameter C and 4 cross validation fold 
 
 Consequently, decoding with the best C parameters (final accuracy for the outer loop for each subject) yielded the predictive performances of 58.33% (Subject 1), 50.11% (Subject 2), 50.57% (Subject 3), and 47.22% (Subject 4). In addition, the group mean decoding accuracy was 51.56%.
 
-**References**
-
-Abraham, A., Pedregosa, F., Eickenberg, M., Gervais, P., Mueller, A., Kossaifi, J., ... Varoquaux, G. (2014). Machine learning for neuroimaging with scikit-learn. Frontiers in Neuroinformatics, 8(14), 1-10.
-
-Bishop, M. C. (2006). Linear models for regression. (In Jordan, M., Kleinberg, J., & Schölkoph, B. (Eds.)), Pattern recognition and machine learning. (1st ed., pp. 145-146). New York: Springer
-
-Haxby, J. V, Gobbini, M. I., Furey, M. L., Ishai, A., Schouten, J. L., & Pietrini, P. (2001). Distributed and overlapping representations of faces and objects in ventral temporal cortex. Science, 293(5539), 2425–2430.
-
-Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... Duchesnay, É. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825–2830.
-
-Rhys, I. H. (2020). Regression. (In Michaels, M., Warren, D., Dragosavljevic, A., Weidert, L., & Taylor, T. (Eds.)), Machine learning with R, the tidyverse, and mlr. (1st ed., pp. 258-261). New York, Shelter Island: Manning Publications.
-
-Varoquaux, G., Raamana, R. P., Engemann, D., Hoyos-Idrobo, A., Schwartz, Y., & Thirion, B. (2016). Assessing and tuning brain decoders: cross-validation, caveats, and guidelines. NeuroImage, 10, 1-15.
-
 #### Code Organization
 The code for the data preprocessing as well as processing stages are provided in the same subdirectory (**Code**). Furthermore, figures demonstrated in the **README** section can be found in the subdirectory called **Figures**. The code was written in Python using the combination of Atom text and source code editor and Google Colaboratory.
