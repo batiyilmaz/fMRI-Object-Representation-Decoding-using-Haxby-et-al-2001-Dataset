@@ -50,5 +50,5 @@ was used to set the regularization hyperparameter C and 4 cross validation fold 
 
 Consequently, decoding with the best C parameters (final accuracy for the outer loop for each subject) yielded the predictive performances of 58.33% (Subject 1), 50.11% (Subject 2), 50.57% (Subject 3), and 47.22% (Subject 4). In addition, the group mean decoding accuracy was 51.56%.
 
-#### Code Organization
+### Code Organization
 The code for the data preprocessing as well as processing stages are provided in the same subdirectory (**Code**). Furthermore, figures demonstrated in the **README** section can be found in the subdirectory called **Figures**. The code was written in Python using the combination of Atom text and source code editor and Google Colaboratory.
