@@ -2,11 +2,11 @@
 
 ## Project Stages with Detailed Descriptions
 
-**Preprocessing**
+### Preprocessing
 
 During the preliminary stage, the data of subjects 1-4 from the [Haxby et al. (2001)](https://pubmed.ncbi.nlm.nih.gov/11577229/) dataset were downloaded and subsetting was carried out to contain all the available 8 non-rest classes for the outcome variables. The preprocessing was performed by standardizing and detrending the predictor variable, functional Nifti images with BOLD data by using NiftiMasker() class/function from nilearn [(Abraham et al., 2014)](https://www.frontiersin.org/articles/10.3389/fninf.2014.00014/full?ref=https://githubhelp.com). The rest of the analyses extensively employed classes/functions from scikit-learn [(Pedregosa et al., 2011)](https://arxiv.org/abs/1201.0490). Finally, a leave-one-run-out multi-class classification scheme was established to split the training and test set data for the processing.
 
-**Data Analysis**
+### Data Analysis
 
 #### Classifier Performance Comparison (Multinomial Logistic Regression vs. Linear SVM using One-vs-Rest and One-vs-One Multi-Class Classification)
 
