@@ -19,7 +19,7 @@ The prediction performance of the L2-penalized multinomial logistic regression w
 
 Overall, the best performing model has been found to be the linear SVM with a one-vs-rest multi-class classification strategy with 55.09% mean decoding accuracy (see Figure 1).
 
-![Figure 1](https://github.com/batiyilmaz/fMRI-Object-Representation-Decoding-Project-Haxby-et-al-2001-Dataset/blob/main/Figures/figure1_upd.png)
+![Figure 1](https://github.com/batiyilmaz/fMRI-Object-Representation-Decoding-Project-Haxby-et-al-2001-Dataset/blob/main/Figures/Figure_1.png)
 
 **Subject variability**
 
