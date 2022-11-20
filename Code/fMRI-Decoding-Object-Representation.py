@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """ 
-  fMRI Object Representation Decoding using Haxy et al. (2001) Dataset 
+  fMRI Object Representation Decoding using Haxby et al. (2001) Dataset 
   The code was modified in Atom text editor and Google Colab.
 
 """
